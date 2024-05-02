@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python for Data science**
 
-- linked in: [https://www.linkedin.com/in/sama-sowmya-8005b1236](https://www.linkedin.com/in/sama-sowmya-8005b1236)
+- linked in: [https://www.linkedin.com/in/sama-sowmya-8005b1236](https://www.linkedin.com/in/sama-sowmya)
 
 - Gmail : **samasowmya2004@gmail.com**
 
