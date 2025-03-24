@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmya2k4&label=Profile%20views&color=0e75b6&style=flat" alt="sowmya2k4" /> </p>
 
-- 🌱 I’m currently learning **Python for Data science**
+- 🌱 Working at Accenture India and I’m currently learning **Python for Data science**
 
 - linked in: [https://www.linkedin.com/in/sama-sowmya-8005b1236](https://www.linkedin.com/in/sama-sowmya)
 
